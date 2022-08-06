@@ -10,4 +10,4 @@
 
 - [配置系统的设计](./api-server-config.md)(待完成)
 
-- [在 VS Code 中 debug](./api-server-debug-in-vscode.md)(待完成)
+- [在 VS Code 中 debug](./api-server-debug-in-vscode.md)
