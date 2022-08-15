@@ -10,4 +10,6 @@
 
 - [在 VS Code 中 debug](./api-server-debug-in-vscode.md)
 
+- [验证模块的实现](./api-server-authentication.md)
+
 - [配置系统的设计](./api-server-config.md)(待完成)
