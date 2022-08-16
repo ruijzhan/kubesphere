@@ -13,3 +13,7 @@
 - [验证模块的实现](./api-server-authentication.md)
 
 - [配置系统的设计](./api-server-config.md)(待完成)
+
+## 功能模块
+
+- [日志功能的实现](./api-server-logging.md)
